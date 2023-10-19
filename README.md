@@ -1,2 +1,2 @@
 # FASTAPI
-Labs for FastAPI
+Labs for FastAPI assignement
